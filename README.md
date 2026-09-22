@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @phongnood
-- 👀 I’m interested in coding and playing games
-- 🌱 I’m currently learning python and javascript. :>
+- 🌱 I'm moving on learning C++ (my python is still amateur :v)
 - 😄 Pronouns: Nood
 - ⚡ Fun fact: nothing:>
 
